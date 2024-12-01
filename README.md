@@ -1,6 +1,6 @@
 # React App
 
-Building a E-Commerce Website
+Building a Todo app
 
 ## Authors
 
@@ -24,12 +24,6 @@ To clone this project in your directory
 
 ```bash
     git clone https://github.com/Aquareziaprakash/Todo-app
-```
-
-Install dependencies
-
-```bash
-    pip install -r requirements.txt
 ```
 
 Go to your project folder
@@ -57,8 +51,4 @@ Install my-project with npm
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express, Django
-
-**Database:** MongoDB
+**Client:** React, TailwindCSS
